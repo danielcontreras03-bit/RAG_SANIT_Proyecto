@@ -1,8 +1,8 @@
 # Sanit — Asistente RAG sobre la Resolución 2674 de 2013
 
 ## 👤 Estudiante y fecha
-- **Nombre:** _<Daniel Esteban Contreras Reyes >_
-- **Fecha:** _<20 de Junio de 2026>_
+- **Nombre:** _Daniel Esteban Contreras Reyes_
+- **Fecha:** _20 de Junio de 2026_
 
 ## 📄 Documento seleccionado y justificación
 **Documento:** Resolución 2674 de 2013 del Ministerio de Salud y Protección Social de
@@ -11,32 +11,32 @@ dictan otras disposiciones" (requisitos sanitarios para fabricación, procesamie
 envase, almacenamiento, transporte, distribución, comercialización y expendio de
 alimentos). Categoría: **Salud y seguridad**.
 
-**Justificación:** _<El interes de realizar el proyecto con la resolucion 2674 de 2013 es por temas relacionados con mi empleo actual que es una empresa que forma parte de la industria láctea y del sector de alimentos. Para cumplir con las dispocisines de higiene y salubridad necesarias para el correcto funcionamiento de la empresa es indispensable la resolucion 2674 de 2013 donde se encuentran los temas mas importantes que todos los miembros de la empresa deben conocer y manejar sin excepcion.
+**Justificación:** _El interes de realizar el proyecto con la resolucion 2674 de 2013 es por temas relacionados con mi empleo actual que es una empresa que forma parte de la industria láctea y del sector de alimentos. Para cumplir con las dispocisines de higiene y salubridad necesarias para el correcto funcionamiento de la empresa es indispensable la resolucion 2674 de 2013 donde se encuentran los temas mas importantes que todos los miembros de la empresa deben conocer y manejar sin excepcion.
 Fuente oficial del PDF:
 https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%202674%20de%202013.pdf
 
 ## 🎯 Persona usuaria objetivo y caso de uso
-**Persona usuaria objetivo:** _<Todos los miembros de la empresa en especial gerencia y los líderes de la planta de producción.>_
+**Persona usuaria objetivo:** _Todos los miembros de la empresa en especial gerencia y los líderes de la planta de producción._
 
-**Caso de uso:** _<Por ejemplo: un encargado de control de calidad usa el
+**Caso de uso:** _Por ejemplo: un encargado de control de calidad usa el
 asistente para consultar, en lenguaje natural, requisitos específicos (dotación del personal manipulador, condiciones de almacenamiento, rotulado, etc.) antes de una visita de inspección del INVIMA, obteniendo respuestas trazables a artículos y
 páginas concretas de la norma.
 
-Otro ejemplo: en gerencia cuando se desee realizar una auditoria interna en temas de procesamiento, envase o almacenamiento se usa el asistente para consultar en lenguaje natural la norma y de esta manera programar capacitaciones, mantenimientos o adecuaciones en la planta.>_
+Otro ejemplo: en gerencia cuando se desee realizar una auditoria interna en temas de procesamiento, envase o almacenamiento se usa el asistente para consultar en lenguaje natural la norma y de esta manera programar capacitaciones, mantenimientos o adecuaciones en la planta._
 
 
 ## 💬 Cinco preguntas y respuestas generadas por el sistema
 
 
 **1. ¿Qué se entiende por alimento de mayor riesgo en salud pública según la resolución?**
-> _<Sanit: Según la Resolución 2674 de 2013, se entiende por ALIMENTO DE MAYOR RIESGO EN SALUD PÚBLICA a:
+> _Sanit: Según la Resolución 2674 de 2013, se entiende por ALIMENTO DE MAYOR RIESGO EN SALUD PÚBLICA a:
 
 "Los alimentos que pueden contener microorganismos patógenos y favorecer la formación de toxinas o el crecimiento de microorganismos patógenos y alimentos que pueden contener productos químicos nocivos." 
 
-📄 Páginas consultadas: 3, 4, 5, 8>_
+📄 Páginas consultadas: 3, 4, 5, 8_
 
 **2. ¿Qué requisitos de dotación e higiene debe cumplir el personal que manipula alimentos?**
-> _<Sanit: Según la Resolución 2674 de 2013, el personal manipulador de alimentos debe cumplir con los siguientes requisitos:
+> _Sanit: Según la Resolución 2674 de 2013, el personal manipulador de alimentos debe cumplir con los siguientes requisitos:
 
 **1. Estado de salud (Artículo 11):**
 *   Contar con una certificación médica que conste la aptitud o no para la manipulación de alimentos.
@@ -59,10 +59,10 @@ Otro ejemplo: en gerencia cuando se desee realizar una auditoria interna en tema
 *   El manipulador de alimentos no podrá salir e ingresar al establecimiento con la vestimenta de trabajo.
 *   Lavarse las manos con agua y jabón desinfectante, antes de comenzar su trabajo, cada vez que salga y regrese al área asignada y después de manipular cualquier material u objeto que pudiese representar un riesgo de contaminación para el alimento.
 
-📄 Páginas consultadas: 16, 17>_
+📄 Páginas consultadas: 16, 17_
 
 **3. ¿Qué condiciones deben cumplir los establecimientos para el almacenamiento de alimentos?**
-> _<Sanit: Según la Resolución 2674 de 2013, las operaciones y condiciones de almacenamiento de alimentos deben cumplir con lo siguiente:
+> _Sanit: Según la Resolución 2674 de 2013, las operaciones y condiciones de almacenamiento de alimentos deben cumplir con lo siguiente:
 
 **Condiciones generales (Artículo 27):**
 Deben evitar:
@@ -94,7 +94,7 @@ Deben evitar:
 10. **Acceso restringido:** Se prohíbe el acceso de animales y la presencia de personas diferentes a los manipuladores de alimentos.
 11. **Sustancias peligrosas:** Se prohíbe el almacenamiento de sustancias peligrosas en la cocina, en las áreas de preparación de los alimentos o en las áreas de almacenamiento de materias primas.
 
-📄 Páginas consultadas: 25, 26, 29>_
+📄 Páginas consultadas: 25, 26, 29_
 
 **4. ¿Qué información obligatoria debe llevar el rotulado o etiquetado de un alimento?**
 > _<Sanit: No encontré esa información en la Resolución 2674 de 2013. La información proporcionada se refiere a los requisitos para la ficha técnica del producto y el certificado de venta libre para alimentos importados, no a la información obligatoria que debe llevar el rotulado o etiquetado de un alimento.
@@ -102,9 +102,9 @@ Deben evitar:
 
 **5. ¿Qué dice la resolución sobre el transporte aéreo de alimentos? (pregunta fuera del
 documento, para probar que el asistente no inventa)**
-> _<Sanit: No encontré esa información en la Resolución 2674 de 2013. La resolución menciona el transporte de alimentos y sus materias primas en general, y se refiere a "vehículos" para algunas de sus disposiciones, pero no especifica el transporte aéreo.
+> _Sanit: No encontré esa información en la Resolución 2674 de 2013. La resolución menciona el transporte de alimentos y sus materias primas en general, y se refiere a "vehículos" para algunas de sus disposiciones, pero no especifica el transporte aéreo.
 
-📄 Páginas consultadas: 3, 6, 26, 27>_
+📄 Páginas consultadas: 3, 6, 26, 27_
 
 ## ⚙️ Instrucciones para ejecutar el sistema
 
