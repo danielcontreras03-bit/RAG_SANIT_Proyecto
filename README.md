@@ -1,7 +1,7 @@
 # Sanit — Asistente RAG sobre la Resolución 2674 de 2013
 
 ## 👤 Estudiante y fecha
-- **Nombre:** _<Daniel esteban Contreras Reyes>_
+- **Nombre:** _<Daniel Esteban Contreras Reyes >_
 - **Fecha:** _<20 de Junio de 2026>_
 
 ## 📄 Documento seleccionado y justificación
