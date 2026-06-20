@@ -1,0 +1,17 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Variables de entorno (contiene tu API key real)
+.env
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Base vectorial generada localmente (se regenera con ingest.py)
+chroma_db/
+
+# Archivos del sistema
+.DS_Store
